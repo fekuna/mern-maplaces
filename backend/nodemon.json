@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "alfan",
+        "DB_PASSWORD": "asd123",
+        "DB_NAME": "maplaces",
+        "GOOGLE_API_KEY": "AIzaSyAFFN3Sl_rn5HnvkKwSfHIB4QC70U09lsE",
+        "JWT_KEY": "supersecret_alfan"
+    }
+}
