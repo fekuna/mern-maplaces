@@ -3,7 +3,7 @@
         "DB_USER": "alfan",
         "DB_PASSWORD": "asd123",
         "DB_NAME": "maplaces",
-        "GOOGLE_API_KEY": "AIzaSyAFFN3Sl_rn5HnvkKwSfHIB4QC70U09lsE",
+        "GOOGLE_API_KEY": "INSERT YOUR GOOGLE API KEY HERE",
         "JWT_KEY": "supersecret_alfan"
     }
 }
